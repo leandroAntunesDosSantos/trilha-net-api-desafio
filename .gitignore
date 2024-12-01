@@ -400,3 +400,6 @@ FodyWeavers.xsd
 # Rider
 .idea/
 *.sln.DotSettings.user
+
+# Migration
+Migrations
